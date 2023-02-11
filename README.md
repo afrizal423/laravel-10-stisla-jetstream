@@ -1,4 +1,4 @@
-# Laravel 9 + Stisla + Jetstream + Livewire
+# Laravel 10 + Stisla + Jetstream + Livewire
 
 we love Stisla Admin Template and Laravel 9 let's make them love each other.
 
@@ -6,9 +6,9 @@ we love Stisla Admin Template and Laravel 9 let's make them love each other.
 
 ## What inside?
 
--   Laravel ^9.x - [laravel.com/docs/9.x](https://laravel.com/docs/9.x)
--   Laravel Jetstream ^2.6 - [jetstream.laravel.com](https://jetstream.laravel.com/)
--   Livewire ^2.5 - [laravel-livewire.com](https://laravel-livewire.com)
+-   Laravel ^10.x - [laravel.com/docs/9.x](https://laravel.com/docs/10.x)
+-   Laravel Jetstream ^2.16 - [jetstream.laravel.com](https://jetstream.laravel.com/)
+-   Livewire ^2.11 - [laravel-livewire.com](https://laravel-livewire.com)
 -   Stisla Admin Template ^2.3.0 - [getstisla.com](https://getstisla.com/)
 
 Include simple Data Table with Livewire (CRUD).
@@ -17,7 +17,7 @@ Include simple Data Table with Livewire (CRUD).
 
 Run the command below to start a new project
 ```shell
-composer create-project afrizalmy/laravel9-stisla-livewire:dev-master <project_name>
+composer create-project afrizalmy/laravel10-stisla-livewire:dev-master <project_name>
 ```
 Change *project_name* as desired.
 Next step is install all dependency required by laravel and laravel-mix.
