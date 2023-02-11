@@ -1,6 +1,9 @@
 import './bootstrap';
-import '../css/app.css';
-import '../css/tailwind.css';
+
+import Alpine from 'alpinejs';
+import focus from '@alpinejs/focus';
+window.Alpine = Alpine;
+
 function dataTableController (id) {
     return {
         id,
@@ -48,3 +51,7 @@ window.__controller = {
     dataTableController,
     dataTableMainController
 }
+
+Alpine.plugin(focus);
+
+Alpine.start();

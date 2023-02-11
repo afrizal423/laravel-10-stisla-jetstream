@@ -1,5 +1,6 @@
 <?php
 
+use App\Providers\HelperServiceProvider;
 use Illuminate\Support\Facades\Facade;
 
 return [
@@ -185,7 +186,7 @@ return [
         /*
          * Package Service Providers...
          */
-        browner12\helpers\HelperServiceProvider::class,
+        App\Providers\HelperServiceProvider::class,
 
         /*
          * Application Service Providers...
