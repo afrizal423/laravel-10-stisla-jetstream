@@ -1,12 +1,12 @@
 # Laravel 10 + Stisla + Jetstream + Livewire
 
-we love Stisla Admin Template and Laravel 9 let's make them love each other.
+we love Stisla Admin Template and Laravel 10 let's make them love each other.
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/zalabs02/laravel-9-stisla-jetstream/issues)
 
 ## What inside?
 
--   Laravel ^10.x - [laravel.com/docs/9.x](https://laravel.com/docs/10.x)
+-   Laravel ^10.x - [laravel.com/docs/10.x](https://laravel.com/docs/10.x)
 -   Laravel Jetstream ^2.16 - [jetstream.laravel.com](https://jetstream.laravel.com/)
 -   Livewire ^2.11 - [laravel-livewire.com](https://laravel-livewire.com)
 -   Stisla Admin Template ^2.3.0 - [getstisla.com](https://getstisla.com/)
@@ -20,7 +20,7 @@ Run the command below to start a new project
 composer create-project afrizalmy/laravel10-stisla-livewire:dev-master <project_name>
 ```
 Change *project_name* as desired.
-Next step is install all dependency required by laravel and laravel-mix.
+Next step is install all dependency required by laravel. vite, and tailwind.
 
 ```shell
 # project directory

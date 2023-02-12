@@ -19,7 +19,7 @@
         <link rel="stylesheet" href="{{ asset('stisla/css/components.css') }}">
         <link rel="stylesheet" href="{{ asset('vendor/notyf/notyf.min.css') }}">
         {{-- <link rel="stylesheet" href="{{ asset('css/app.css') }}"> --}}
-        @vite(['resources/js/app.js'])
+        @vite(['resources/css/app.css', 'resources/js/app.js'])
 
         <link rel="stylesheet" href="https://kit-free.fontawesome.com/releases/latest/css/free-v4-shims.min.css" media="all">
         <link rel="stylesheet" href="https://kit-free.fontawesome.com/releases/latest/css/free-v4-font-face.min.css" media="all">
