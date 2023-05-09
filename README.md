@@ -7,8 +7,8 @@ we love Stisla Admin Template and Laravel 10 let's make them love each other.
 ## What inside?
 
 -   Laravel ^10.x - [laravel.com/docs/10.x](https://laravel.com/docs/10.x)
--   Laravel Jetstream ^2.16 - [jetstream.laravel.com](https://jetstream.laravel.com/)
--   Livewire ^2.11 - [laravel-livewire.com](https://laravel-livewire.com)
+-   Laravel Jetstream ^3.1 - [jetstream.laravel.com](https://jetstream.laravel.com/)
+-   Livewire ^2.12 - [laravel-livewire.com](https://laravel-livewire.com)
 -   Stisla Admin Template ^2.3.0 - [getstisla.com](https://getstisla.com/)
 
 Include simple Data Table with Livewire (CRUD).
